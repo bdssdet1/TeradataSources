@@ -1,8 +1,0 @@
-SessionID,Name,Description,Severity,Line,Column,ParentFile,TopLevelCategory,Code
-493a018a-b21c-4001-98d7-b6a4dcaec884,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 4 OF THE SOURCE CODE. **,Critical,4,3,Could not obtain the relative path,No category specified,MSCEWI1001
-493a018a-b21c-4001-98d7-b6a4dcaec884,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 28 OF THE SOURCE CODE. **,Critical,28,1,Could not obtain the relative path,No category specified,MSCEWI1001
-493a018a-b21c-4001-98d7-b6a4dcaec884,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 38 OF THE SOURCE CODE. **,Critical,38,1,Could not obtain the relative path,No category specified,MSCEWI1001
-493a018a-b21c-4001-98d7-b6a4dcaec884,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 39 OF THE SOURCE CODE. **,Critical,39,1,Could not obtain the relative path,No category specified,MSCEWI1001
-493a018a-b21c-4001-98d7-b6a4dcaec884,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 45 OF THE SOURCE CODE. **,Critical,45,1,Could not obtain the relative path,No category specified,MSCEWI1001
-493a018a-b21c-4001-98d7-b6a4dcaec884,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 60 OF THE SOURCE CODE. **,Critical,60,1,Could not obtain the relative path,No category specified,MSCEWI1001
-493a018a-b21c-4001-98d7-b6a4dcaec884,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 61 OF THE SOURCE CODE. **,Critical,61,1,Could not obtain the relative path,No category specified,MSCEWI1001
