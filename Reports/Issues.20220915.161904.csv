@@ -1,8 +1,0 @@
-SessionID,Name,Description,Severity,Line,Column,ParentFile,TopLevelCategory,Code
-32f121d1-b9b9-4bec-ab67-4373677c0998,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 4 OF THE SOURCE CODE. **,Critical,4,0,CLI_T12/Source_code.sql,No category specified,MSCEWI1001
-32f121d1-b9b9-4bec-ab67-4373677c0998,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 28 OF THE SOURCE CODE. **,Critical,28,0,CLI_T12/Source_code.sql,No category specified,MSCEWI1001
-32f121d1-b9b9-4bec-ab67-4373677c0998,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 38 OF THE SOURCE CODE. **,Critical,38,0,CLI_T12/Source_code.sql,No category specified,MSCEWI1001
-32f121d1-b9b9-4bec-ab67-4373677c0998,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 39 OF THE SOURCE CODE. **,Critical,39,0,CLI_T12/Source_code.sql,No category specified,MSCEWI1001
-32f121d1-b9b9-4bec-ab67-4373677c0998,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 45 OF THE SOURCE CODE. **,Critical,45,0,CLI_T12/Source_code.sql,No category specified,MSCEWI1001
-32f121d1-b9b9-4bec-ab67-4373677c0998,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 60 OF THE SOURCE CODE. **,Critical,60,0,CLI_T12/Source_code.sql,No category specified,MSCEWI1001
-32f121d1-b9b9-4bec-ab67-4373677c0998,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 61 OF THE SOURCE CODE. **,Critical,61,0,CLI_T12/Source_code.sql,No category specified,MSCEWI1001
